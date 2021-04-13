@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🤔 Informações
 
-Esse projeto foi desenvolvido baseado em aulas do ignite da rocketseat, com o intuito de aprimorar os conhecimentos sobre SSR (server-side rendering) utilizando NextJS e “getStaticProps” e “getStaticPaths” que podemos buscar dados no momento da construção assim a geração de páginas estáticas é feita de forma dinamizada, facilita o lado dos desenvolvedores e otimiza o acesso dos clientes e por fim também utilizamos o Sass para estilização.
+Esse projeto foi desenvolvido baseado em aulas do ignite da rocketseat, com o intuito de aprimorar os conhecimentos sobre SSR (server-side rendering) utilizando NextJS e “getStaticProps” e “getStaticPaths” que podemos buscar dados no momento da construção assim a geração de páginas estáticas é feita de forma dinamizada, facilita o lado dos desenvolvedores e otimiza o acesso dos clientes e por fim também utilizamos o Sass para estilização e fizemos a integração com a api do GitHub para facilitar no momento de criar o cadastro a utilizamos a api do stripe para gerenciar pagamento e assinaturas.
 
 ## 🖼 Layout
 <p align="center">
